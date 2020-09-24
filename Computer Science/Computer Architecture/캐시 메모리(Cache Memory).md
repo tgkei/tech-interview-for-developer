@@ -131,3 +131,5 @@ CPU가 요청한 데이터가 캐시에 있으면 'Cache Hit', 없어서 DRAM에
 - [링크](https://it.donga.com/215/ )
 
 - [링크](https://namu.moe/w/%EC%BA%90%EC%8B%9C%20%EB%A9%94%EB%AA%A8%EB%A6%AC)
+
+- [링크] (https://parksb.github.io/article/29.html)
